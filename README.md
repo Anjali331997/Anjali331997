@@ -33,8 +33,7 @@
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=Anjali331997&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
