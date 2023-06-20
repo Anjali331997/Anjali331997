@@ -3,13 +3,13 @@
 
 # 💫 About Me:
 
-<div >
+
 - 👋 Hi, I’m <b>Anjali A P</b>
 - 🧑‍💻 <b>MERN Developer || Full Stack Developer || Frontend Developer || Backend Developer </b>.
 - 🕸️ <b>My WebSite</b> -<a href= "">Click Here</a> 
 - 📃 <b>Resume</b> - <a href= "" >Click Here</a>
 - 📨 <b>Contact me</b> - <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=anjaliap3march1997@gmail.com">Click Here</a>
-</div>
+
 
 
 
@@ -28,7 +28,6 @@
 
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=Anjali331997&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fRsNfCTd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anjali_padmanabhan_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-a-p-3b571b18a/) 
