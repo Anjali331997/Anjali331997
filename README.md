@@ -17,9 +17,6 @@
 
 # 📊 GitHub Stats :
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjaliap331997r&theme=monokai" alt="soumya"/>
-</div>
-<div align="center" style="display: flex; flex-wrap: nowrap;">
     <img width="39%" src="https://github-readme-stats.vercel.app/api?username=Anjali331997&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="soumya"/>
     <img width="42.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjali331997&theme=radical&hide_border=false" alt="soumya" />
 </div>
