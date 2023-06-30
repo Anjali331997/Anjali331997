@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m <b>Anjali A P</b>
 - 🧑‍💻 <b>MERN Developer || Full Stack Developer || Frontend Developer || Backend Developer </b>.
-- 🕸️  <a href= "https://anjali-a-p.vercel.app/"><b>My Portfolio</b></a> 
+- 🕸️  <a href= "https://anjali331997.github.io/"><b>My Portfolio</b></a> 
 - 📃  <a href= "https://drive.google.com/file/d/1SAvapziRKxPJhMHzhugs64t4ME929Rso/view?usp=drive_link" ><b>Resume</b></a>
 - 📨  <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=anjaliap3march1997@gmail.com"><b>Contact me</b></a>
 
