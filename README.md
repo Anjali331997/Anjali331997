@@ -6,8 +6,8 @@
 
 - 👋 Hi, I’m <b>Anjali A P</b>
 - 🧑‍💻 <b>MERN Developer || Full Stack Developer || Frontend Developer || Backend Developer </b>.
-- 🕸️ <b>My WebSite</b> -<a href= "">Click Here</a> 
-- 📃 <b>Resume</b> - <a href= "" >Click Here</a>
+- 🕸️ <b>My WebSite</b> -<a href= "https://anjali331997.github.io/">Click Here</a> 
+- 📃 <b>Resume</b> - <a href= "https://drive.google.com/file/d/1SAvapziRKxPJhMHzhugs64t4ME929Rso/view?usp=drive_link" >Click Here</a>
 - 📨 <b>Contact me</b> - <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=anjaliap3march1997@gmail.com">Click Here</a>
 
 
