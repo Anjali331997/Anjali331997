@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m <b>Anjali A P</b>
 - 🧑‍💻 <b>MERN Developer || Full Stack Developer || Frontend Developer || Backend Developer </b>.
-- 👨&zwj;💻</g-emoji> Checkout my <a href="https://anjali331997.github.io/" rel="nofollow">Portfolio</a> &nbsp; <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="15" src="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270" data-canonical-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp" style="max-width: 100%;"></a>
+- 👨&zwj;💻</g-emoji> Checkout my <a href="https://Anjali331997.github.io/" rel="nofollow">Portfolio</a> &nbsp; <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="15" src="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270" data-canonical-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp" style="max-width: 100%;"></a>
 
 - 📃  <a href= "https://drive.google.com/file/d/1SAvapziRKxPJhMHzhugs64t4ME929Rso/view?usp=drive_link" target="_blank"><b>Resume</b></a>
 - 📨  <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=anjaliap3march1997@gmail.com" target="_blank"><b>Contact me</b></a>
@@ -19,8 +19,8 @@
 
 # 📊 GitHub Stats :
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="39%" src="https://github-readme-stats.vercel.app/api?username=Anjali331997&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="soumya"/>
-    <img width="42.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjali331997&theme=radical&hide_border=false" alt="soumya" />
+    <img width="39%" src="https://github-readme-stats.vercel.app/api?username=Anjali331997&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="anjali"/>
+    <img width="42.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjali331997&theme=radical&hide_border=false" alt="anjali" />
 </div>
 
 ## 🏆 GitHub Trophies 
